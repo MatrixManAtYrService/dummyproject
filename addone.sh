@@ -1,2 +1,2 @@
 #! /usr/bin/env bash
-echo "$1 + 2" | bc
+echo "$1 + 1" | bc
